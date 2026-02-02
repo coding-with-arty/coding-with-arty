@@ -10,7 +10,7 @@ I’m **Arty**, a Computer Science student at **University of Maine Augusta (UMA
 Currently, I serve as:  
 - **Lead Developer** for the **Maine Bread of Life** online presence.  
 - **Teaching Assistant** for **MIT’s Brave Behind Bars** program.  
-- **Instructor** for Python and web development in the **Maine DOC Education Department**.
+- **Instructor** for Python and web development for adult education.
 
 This repository is my **personal learning lab**, where I experiment with new frameworks, build web projects, and refine my development skills.
 
