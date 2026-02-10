@@ -12,7 +12,8 @@ Currently, I serve as:
 - **Teaching Assistant** for **MIT’s Brave Behind Bars** program.  
 - **Instructor** for Python and web development for adult education.
 
-This repository is my **personal learning lab**, where I experiment with new frameworks, build web projects, and refine my development skills.
+These **repositories** are where I backup all my learning projects from school and work.
+I put the time in **teaching myself** and going above and beyond to better myself as a dev.
 
 ---
 
