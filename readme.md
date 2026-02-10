@@ -13,7 +13,7 @@ Currently, I serve as:
 - **Instructor** for Python and web development for adult education.
 
 These **repositories** are where I backup all my learning projects from school and work.
-I put the time in **teaching myself** and going above and beyond to better myself as a dev.
+I put the time in **teaching myself** and going above and beyond to be a better dev and **tutor**.
 
 ---
 
