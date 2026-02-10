@@ -29,8 +29,8 @@ I put the time in **teaching myself** and going above and beyond to be a better 
 ## 🛠 Tech Stack
 
 - **Languages**: Python, JavaScript, HTML5, CSS3, Bash  
-- **Frameworks & Libraries**: Flask, Django, Jinja, Bootstrap, Vite  
-- **Tools & Environments**: Visual Studio Code, Node.js, BrowserSync, Git/GitHub  
+- **Frameworks & Libraries**: Flask, Django, Streamlit, Jinja, Bootstrap, Vite  
+- **Tools & Environments**: Visual Studio Code, Node.js, LiveServer/BrowserSync, Git/GitHub  
 - **Focus Areas**: Full-stack web development, front-end design, back-end logic, educational tools  
 
 ---
