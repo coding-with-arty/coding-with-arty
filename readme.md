@@ -1,7 +1,7 @@
 ﻿# <center>👋 coding-with-arty</center>
 
 <p align="center">
-  <img src="README-images/readme1.png" alt="Arty's Photo" width="300"/>
+  <img src="README-images/readme2.jpg" alt="Arty's Photo" width="300"/>
 </p>
 
 ## 🎛️ Music Technology Student | Developer | Educator | Musician
@@ -93,5 +93,5 @@ My goal isn't just to write better code—it's to keep learning, keep creating, 
 
 ---
 <p align="center">
-  <img src="README-images/readme2.JPG" alt="Arty at work" width="300"/>
+  <img src="README-images/readme1.png" alt="Arty at work" width="300"/>
 </p>
