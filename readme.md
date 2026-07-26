@@ -1,7 +1,7 @@
 ﻿# <center>👋 coding-with-arty</center>
 
 <p align="center">
-  <img src="README-images/readme2.jpg" alt="Arty's Photo" width="300"/>
+  <img src="README-images/readme2.JPG" alt="Arty's Photo" width="300"/>
 </p>
 
 ## 🎛️ Music Technology Student | Developer | Educator | Musician
